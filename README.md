@@ -10,6 +10,6 @@ Some of the Algorithms learnt include:
 6. Decision Trees
 7. SVM
 
-Additionally, libraries like numpy, pandas and matplotlib were also taught.
+Additionally, libraries like numpy, pandas and matplotlib were also covered.
 
 This Internship was the introduction to the field of Machine learning for me.
